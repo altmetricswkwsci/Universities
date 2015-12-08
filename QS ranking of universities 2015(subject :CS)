@@ -1,0 +1,400 @@
+1	Massachusetts Institute of Technology (MIT) 
+2	Stanford University
+3	University of Oxford
+4	Carnegie Mellon University
+4	Harvard University
+6	University of California, Berkeley (UCB)
+7	University of Cambridge
+8	The Hong Kong University of Science and Technology
+9	ETH Zurich - Swiss Federal Institute of Technology
+9	Princeton University
+11	National University of Singapore (NUS)
+12	The University of Hong Kong
+13	The University of Melbourne
+14	The University of Edinburgh
+15	Imperial College London
+16	University of Toronto
+17	University of California, Los Angeles (UCLA)
+18	The Chinese University of Hong Kong
+18	The University of Tokyo
+20	University of Washington
+21	Nanyang Technological University, Singapore (NTU)
+22	University of Texas at Austin
+23	UCL (University College London)
+24	University of British Columbia
+24	University of Waterloo
+26	The Australian National University
+27	California Institute of Technology (Caltech)
+27	Columbia University
+29	EPFL (Ecole Polytechnique Fédérale de Lausanne)
+30	University of Illinois at Urbana-Champaign
+31	Cornell University
+32	New York University (NYU)
+32	Technische Universität München 
+34	Yale University
+35	The University of New South Wales (UNSW Australia)
+36	Peking University
+36	The University of Sydney
+38	Tsinghua University
+39	Georgia Institute of Technology
+39	KAIST - Korea Advanced Institute of Science Technology
+41	University of Pennsylvania
+42	Seoul National University
+43	Politecnico di Milano
+44	The University of Auckland
+44	University of California, San Diego (UCSD)
+46	National Taiwan University (NTU)
+47	University of Chicago
+48	The University of Manchester
+49	The University of Queensland
+50	McGill University
+51-100	Brown University
+51-100	City University of Hong Kong
+51-100	Delft University of Technology
+51-100	Duke University
+51-100	Ecole normale supérieure, Paris
+51-100	Fudan University
+51-100	Humboldt-Universität zu Berlin
+51-100	Indian Institute of Technology Bombay (IITB)
+51-100	Indian Institute of Technology Delhi (IITD)
+51-100	KU Leuven
+51-100	Kings College London
+51-100	KIT, Karlsruhe Institute of Technology
+51-100	Korea University
+51-100	KTH Royal Institute of Technology
+51-100	Kyoto University
+51-100	Lomonosov Moscow State University 
+51-100	London School of Economics and Political Science (LSE)
+51-100	Ludwig-Maximilians-Universität München
+51-100	Monash University
+51-100	National Tsing Hua University
+51-100	Osaka University
+51-100	Pennsylvania State University
+51-100	Pohang University of Science And Technology (POSTECH)
+51-100	Politecnico di Torino
+51-100	Purdue University
+51-100	RWTH Aachen University
+51-100	RMIT University
+51-100	Sapienza University of Rome
+51-100	Shanghai Jiao Tong University
+51-100	Sungkyunkwan University (SKKU)
+51-100	Technion - Israel Institute of Technology
+51-100	Technische Universität Berlin
+51-100	Vienna University of Technology
+51-100	Tel Aviv University
+51-100	The Hong Kong Polytechnic University
+51-100	Tokyo Institute of Technology
+51-100	Trinity College Dublin
+51-100	Universidade de São Paulo
+51-100	Universidade estadual de Campinas(Unicamp)
+51-100	Alma Mater Studiorum - University of Bologna
+51-100	University of Pisa
+51-100	Universitat Politècnica de Catalunya 
+51-100	University of Amsterdam
+51-100	University of California, Irvine
+51-100	University of Glasgow
+51-100	University of Maryland, College Park
+51-100	University of Massachusetts Amherst
+51-100	University of Michigan
+51-100	University of Southampton
+51-100	University of Southern California
+51-100	University of Wisconsin-Madison
+101-150	Aalto University
+101-150	Aarhus University
+101-150	Boston University
+101-150	Ecole Polytechnique
+101-150	Eindhoven University of Technology
+101-150	The Hebrew University of Jerusalem
+101-150	Indian Institute of Technology Kanpur (IITK)
+101-150	Indian Institute of Technology Madras (IITM)
+101-150	Instituto Politécnico Nacional (IPN)
+101-150	Johns Hopkins University
+101-150	Lancaster University
+101-150	National Cheng Kung University
+101-150	National Chiao Tung University
+101-150	National Taiwan University of Science and Technology (Taiwan Tech)
+101-150	National Technical University of Athens
+101-150	National University of Ireland, Galway
+101-150	Northwestern University
+101-150	The Ohio State University
+101-150	Queensland University of Technology (QUT)
+101-150	Ruprecht-Karls-Universitaet Heidelberg
+101-150	Simon Fraser University
+101-150	Technische Universität Darmstadt
+101-150	The University of Adelaide
+101-150	The University of Warwick
+101-150	Universidad de Chile
+101-150	Universidad Nacional Autónoma de México  (UNAM)
+101-150	University of Barcelona
+101-150	Universität des Saarlandes
+101-150	Université de Montréal 
+101-150	Université Pierre et Marie Curie (UPMC)
+101-150	Universiti Malaya (UM)
+101-150	Universiti Sains Malaysia (USM)
+101-150	University College Dublin
+101-150	University of Alberta
+101-150	University of Bristol
+101-150	University of California, Davis
+101-150	University of Copenhagen
+101-150	University of North Carolina, Chapel Hill
+101-150	University of Oslo
+101-150	University of Otago
+101-150	University of Science and Technology of China
+101-150	University of Technology Sydney
+101-150	University of York
+101-150	University of Zurich
+101-150	Uppsala University
+101-150	Utrecht University
+101-150	Victoria University of Wellington
+101-150	Vrije Universiteit Amsterdam
+101-150	Yonsei University
+101-150	Zhejiang University
+151-200	Beijing Institute of Technology
+151-200	Chalmers University of Technology
+151-200	Curtin University
+151-200	Czech Technical University in Prague
+151-200	Deakin University
+151-200	Freie Universitaet Berlin
+151-200	Hanyang University
+151-200	Indian Institute of Science
+151-200	Indian Institute of Technology, Kharagpur
+151-200	Indiana University Bloomington
+151-200	Keio University
+151-200	King Fahd University of Petroleum Minerals
+151-200	Michigan State University
+151-200	Nanjing University
+151-200	National Central University
+151-200	North Carolina State University
+151-200	Northeastern University
+151-200	Norwegian University of Science And Technology
+151-200	Politécnica de Madrid
+151-200	Pontificia Universidad Católica de Chile (UC)
+151-200	Pontifícia Universidade Católica do Rio de Janeiro
+151-200	Singapore Management University
+151-200	Technische Universität Dresden
+151-200	Texas A&M University
+151-200	The University of Nottingham
+151-200	Tohoku University
+151-200	Universidad Carlos III de Madrid (UC3M)
+151-200	University Complutense Madrid
+151-200	Universidade Federal de Minas Gerais      
+151-200	Universidade Federal do Rio de Janeiro
+151-200	University of Milan
+151-200	Universität Stuttgart
+151-200	University of Vienna
+151-200	Université Catholique de Louvain (UCL)
+151-200	Universiti Putra Malaysia (UPM)
+151-200	Universiti Teknologi Malaysia 
+151-200	University of Birmingham
+151-200	University of Calgary
+151-200	University of California, Santa Barbara (UCSB)
+151-200	University of Canterbury
+151-200	University of Helsinki
+151-200	University of Liverpool
+151-200	University of Minnesota
+151-200	The University of Newcastle, Australia (UoN)
+151-200	University of Pittsburgh
+151-200	University of South Australia
+151-200	University of Waikato
+151-200	Waseda University
+151-200	Weizmann Institute of Science
+201-250	Aalborg University
+201-250	Arizona State University
+201-250	Brunel University London
+201-250	Budapest University of Technology and Economics
+201-250	Cardiff University
+201-250	Charles University in Prague
+201-250	Chulalongkorn University
+201-250	City University London
+201-250	Dublin City University
+201-250	Huazhong University of Science and Technology
+201-250	King Saud University
+201-250	Kyushu University
+201-250	Lund University
+201-250	Massey University
+201-250	Middle East Technical University
+201-250	Multimedia University (MMU)
+201-250	National and Kapodistrian University of Athens
+201-250	National Chengchi University
+201-250	National Sun Yat-sen University
+201-250	Newcastle University
+201-250	Queen Mary University of London
+201-250	Queen`s University at Kingston
+201-250	Queen's University Belfast
+201-250	Rensselaer Polytechnic Institute
+201-250	Rheinische Friedrich-Wilhelms-Universitt Bonn
+201-250	Rice University
+201-250	Rutgers, The State University of New Jersey, New Brunswick
+201-250	Swinburne University of Technology
+201-250	Technical University of Denmark
+201-250	TU Dortmund University
+201-250	Instituto Tecnológico y de Estudios Superiores de Monterrey
+201-250	The University of Sheffield
+201-250	The University of Western Australia
+201-250	The University of Western Ontario
+201-250	University of Granada
+201-250	Universidade Federal de Pernambuco(UFPE) 
+201-250	Universidade Federal do Rio Grande Do Sul
+201-250	University of Trento
+201-250	Albert-Ludwigs-Universitaet Freiburg
+201-250	Universite libre de Bruxelles
+201-250	University College Cork
+201-250	University of Bergen
+201-250	University of Colorado Boulder
+201-250	University of Geneva
+201-250	University of Illinois, Chicago (UIC)
+201-250	University of Porto
+201-250	University of Twente
+201-250	University of Virginia
+201-250	University of Wollongong
+201-250	Virginia Polytechnic Institute and State University
+201-250	Xi’an Jiaotong University
+251-300	Aristotle University of Thessaloniki
+251-300	Auckland University of Technology 
+251-300	Beihang University (former BUAA)
+251-300	Beijing University of Technology
+251-300	Ben Gurion University of The Negev
+251-300	Bilkent University
+251-300	Bogaziçi Üniversitesi
+251-300	Dartmouth College
+251-300	Eberhard Karls Universität Tübingen
+251-300	Harbin Institute of Technology
+251-300	Hong Kong Baptist University
+251-300	Illinois Institute of Technology
+251-300	Johannes Kepler University Linz
+251-300	Kyung Hee University
+251-300	Leiden University
+251-300	Linköping University
+251-300	Macquarie University
+251-300	McMaster University
+251-300	Nagoya University
+251-300	Royal Holloway University of London
+251-300	Stockholm University
+251-300	Graz University of Technology
+251-300	TELECOM ParisTech
+251-300	Universidad de Buenos Aires (UBA)
+251-300	Universidad Politècnica de València
+251-300	University of Genoa
+251-300	Università di Padova
+251-300	University of Rome "Tor Vergata"
+251-300	Friedrich-Alexander-Universität Erlangen-Nürnberg
+251-300	Universität  Leipzig
+251-300	Université du Québec
+251-300	Université Paris Dauphine
+251-300	Universiti Kebangsaan Malaysia (UKM)
+251-300	The University of Arizona
+251-300	University of California, Santa Cruz
+251-300	Ghent University
+251-300	University of Groningen
+251-300	University of Leeds
+251-300	University of Limerick
+251-300	University of St Andrews
+251-300	University of Surrey
+251-300	University of Tsukuba
+251-300	University of Utah
+251-300	University of Warsaw 
+251-300	Vanderbilt University
+251-300	Vrije Universiteit Brussel (VUB)
+251-300	Warsaw University of Technology
+251-300	Washington University in St. Louis
+251-300	Wuhan University
+301-400	AGH University of Science and Technology
+301-400	Asian Institute of Technology, Thailand
+301-400	Athens University of Economics and Business
+301-400	Bandung Institute of Technology (ITB)
+301-400	Bar-Ilan University
+301-400	Beijing Jiaotong University
+301-400	Beijing Normal University 
+301-400	Brno University of Technology
+301-400	Cairo University
+301-400	Carleton University
+301-400	Christian-Albrechts-University zu Kiel
+301-400	Concordia University
+301-400	Durham University
+301-400	Ecole Centrale de Paris
+301-400	Ecole Normale Supérieure de Cachan
+301-400	École Normale Supérieure de Lyon
+301-400	Feng Chia University
+301-400	Florida State University
+301-400	Georg-August-University Goettingen
+301-400	George Washington University
+301-400	Georgetown University
+301-400	Institut polytechnique de Grenoble - Grenoble Institute of Technology
+301-400	Griffith University
+301-400	Hokkaido University
+301-400	Indian Institute of Technology Roorkee (IITR)
+301-400	Istanbul Technical University
+301-400	King Abdulaziz University (KAU)
+301-400	King Abdullah University of Science Technology
+301-400	Kingston University, London
+301-400	La Trobe University
+301-400	Leibniz Universität Hannover
+301-400	Loughborough University
+301-400	Maastricht University
+301-400	National Chung Hsing University
+301-400	National Taipei University of Technology
+301-400	National Taiwan Normal University
+301-400	Maynooth University
+301-400	National University of Sciences And Technology (NUST) Islamabad
+301-400	Novosibirsk State University
+301-400	Oxford Brookes University
+301-400	Pusan National University
+301-400	Radboud University 
+301-400	Renmin (People’s) University of China
+301-400	Ruhr-Universität Bochum
+301-400	Saint-Petersburg State University
+301-400	Shanghai University
+301-400	Sogang University
+301-400	Sun Yat-sen University
+301-400	Tampere University of Technology 
+301-400	The Open University
+301-400	University of Florence
+301-400	University of Naples - Federico II
+301-400	University of Turin
+301-400	Universität Bremen
+301-400	Universität Duisburg-Essen
+301-400	Universität Frankfurt am Main
+301-400	University Hamburg
+301-400	Universität Innsbruck
+301-400	Universität Konstanz
+301-400	Université de Strasbourg
+301-400	Université Joseph Fourier - Grenoble 1
+301-400	Université Lille 1, Sciences et Technologies
+301-400	Université Paris 1 Panthéon-Sorbonne 
+301-400	Université Paris Descartes
+301-400	Université Paris Diderot - Paris 7
+301-400	Université Paris-Sud
+301-400	Université Paul Sabatier Toulouse III
+301-400	Universiti Teknologi MARA - UiTM
+301-400	Universiti Teknologi Petronas (Petronas)
+301-400	USI Università della Svizzera italiana / USI University of Lugano
+301-400	University of Aberdeen
+301-400	University of Basel
+301-400	University of Bath
+301-400	University of Bern
+301-400	University of California, Riverside
+301-400	University of Cape Town
+301-400	University of Essex
+301-400	University of Florida
+301-400	University of Leicester
+301-400	University of Milano-Bicocca 
+301-400	University of New Mexico
+301-400	University of Notre Dame
+301-400	University of Ottawa
+301-400	University of Oulu
+301-400	University of Reading
+301-400	University of Rochester
+301-400	University of Strathclyde
+301-400	University of Sussex
+301-400	The University of Tennessee, Knoxville
+301-400	University of Texas Dallas 
+301-400	Ulster University
+301-400	University of Victoria
+301-400	Victoria University 
+301-400	Washington State University
+301-400	Westfälische Wilhelms-Universitat Münster 
+301-400	Worcester Polytechnic Institute
+301-400	Wroclaw University of Technology
+301-400	WU (Vienna University of Economics and Business)
+301-400	Xidian University
+301-400	York University
