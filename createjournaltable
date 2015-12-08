@@ -1,0 +1,39 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Nov 30 14:40:54 2015
+
+@author: rads
+"""
+import MySQLdb as mdb
+
+con = mdb.connect('155.69.120.236', 'msa_usr', 'msa_pwd', 'microsoftacademicgraph')
+cur = con.cursor()
+cursor1 = con.cursor()
+
+dropstmt = 'DROP TABLE IF EXISTS newcsjournaltable'
+cur.execute(dropstmt)
+createstmt = 'CREATE TABLE newcsjournaltable (journal_id varchar(8), journal_name varchar(200))'
+cur.execute(createstmt)
+fdebug = open('journaldebug.txt', 'w')
+fdebug.write('CS Journals from web of science which did not have a journal id in journals table\n')
+for line in open('csjournallist.txt'):
+    print line
+    journalname = line.split('\t')[1].strip().lower()
+    stmt = "select * from journals where LOWER(journal_name) like '%s'"%(journalname)
+    #print stmt
+    cur.execute(stmt)
+    row = cur.fetchone()
+    if row is None:
+        fdebug.write('%s\n' %journalname)
+    while row is not None:
+        sql = "INSERT INTO newcsjournaltable (journal_id, journal_name) VALUES ('%s', '%s')" %(row[0], row[1])
+        try:
+            # Execute the SQL Command
+            cursor1.execute(sql)
+            # Commit your changes in the database
+            con.commit()
+            row = cur.fetchone()
+        except:
+            # Rollback in case there is any error
+            con.rollback()
+fdebug.close()
